@@ -1,0 +1,1 @@
+plot 'C:\\Users\\jeana\\Desktop\\ENTRADA.txt'
